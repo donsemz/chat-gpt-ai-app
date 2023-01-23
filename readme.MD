@@ -1,5 +1,7 @@
 # A simple app using the OpenAI api for answering questions
 
+### Live Site: https://chat-gpt-ai-app-umber.vercel.app/
+
 ## The app is built using:
 HTML, CSS, JS, Vite, NodeJS and OpenAI API
 
